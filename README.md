@@ -1,4 +1,4 @@
-# **HR Analysis Dashboard**
+# **HR Analytics Report**
 
 ## Overview
 This project provides an in-depth analysis of HR data using **Power BI tools**. The dashboard visualizes key metrics related to employee performance, gender balance, hiring, promotions, and turnover rates. These insights support data-driven decisions in human resource management.
